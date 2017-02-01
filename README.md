@@ -8,7 +8,7 @@ According to the number of touches in one second, the behaviour of fish changes 
 ![screenshot_1485806848](https://cloud.githubusercontent.com/assets/21304543/22502040/970d05b0-e86b-11e6-930c-a96b148bf751.png)
 ![screenshot_1485806856](https://cloud.githubusercontent.com/assets/21304543/22502041/971b16aa-e86b-11e6-9f8e-bbeba12f9cf7.png)
 
-#SDK API 15 ou supérieur
+##SDK API 15 ou supérieur
 
-# Learned technique
-# RX-java, custom view, image animation, xml drawable, etc
+## Learned technique
+### RX-java, custom view, image animation, xml drawable, etc
