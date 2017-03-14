@@ -1,5 +1,5 @@
 # (Demo) Aquarium app
-## Un Android app developed for my learning RX-java basic. 
+## I developed the app to learn Rx-java basics.
 ## Touches on screen are processed as a RX stream. According to the number of touches per second, fishes change their behaviour such as they appear, disappear, swim quickly or slowly.
 
 #
